@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados de Logística(Loggi)  
 
-Com as informações extraídas do portfólio Loggi Benchmark for Urban Deliveries (BUD) da startup Loggi, foi feita uma análise detalhada, envolvendo visualizações gráficas e insights específicos para o Distrito Federal.<br><br>                      
+Com as informações extraídas do portfólio Loggi Benchmark for Urban Deliveries (BUD) da startup Loggi, foi feita uma análise detalhada, envolvendo visualizações gráficas e insights específicos para o Distrito Federal.<br>                      
 
 A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeiro. Cada ponto azul representa um ponto de entrega que deve ser alocado a um veículo para que a entrega seja realizada. Veículos pertencem a hubs de distribuição regionais espalhados pela cidade:
 
