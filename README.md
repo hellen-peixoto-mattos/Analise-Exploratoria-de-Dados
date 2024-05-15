@@ -6,7 +6,27 @@ A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeir
 
 ![Mapa](mapa.imagem.png)      
 
+> Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+- Python
+- Google Colab
+- Pandas
+- Seaborn
+- Os
+- Visualização de gráficos
+- Insights
+
 <br>O dado bruto é um arquivo do tipo JSON com uma lista de instâncias de entregas:
+> Onde:
+* **name**: uma string com o nome único da instância;
+* **region**: uma string com o nome único da região do hub; 
+* **origin**: um dict com a latitude e longitude da região do hub;
+* **vehicle_capacity**: um int com a soma da capacidade de carga dos veículos do hub;
+* **deliveries**: uma list de dict com as entregas que devem ser realizadas.                         
+
+> Sendo que:
+* **id**: uma string com o id único da entrega; 
+* **point**: um dict com a latitude e longitude da entrega; 
+* **size**: um int com o tamanho ou a carga que a entrega ocupa no veículo. 
 
 ```json
 [
@@ -31,29 +51,4 @@ A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeir
     ]
   }
 ]              
-'''
-  '''
-> Onde:
-* **name**: uma string com o nome único da instância;
-* **region**: uma string com o nome único da região do hub; 
-* **origin**: um dict com a latitude e longitude da região do hub;
-* **vehicle_capacity**: um int com a soma da capacidade de carga dos veículos do hub;
-* **deliveries**: uma list de dict com as entregas que devem ser realizadas.                         
-
-
-> Sendo que:
-* **id**: uma string com o id único da entrega; 
-* **point**: um dict com a latitude e longitude da entrega; 
-* **size**: um int com o tamanho ou a carga que a entrega ocupa no veículo.                          
-
-
-
-> Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-- Python
-- Google Colab
-- Pandas
-- Seaborn
-- Os
-- Visualização de gráficos
-- Insights
 '''
