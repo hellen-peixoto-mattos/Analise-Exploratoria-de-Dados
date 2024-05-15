@@ -31,8 +31,9 @@ A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeir
     ]
   }
 ]              
-
-Onde:
+'''
+  '''
+> Onde:
 * **name**: uma string com o nome único da instância;
 * **region**: uma string com o nome único da região do hub; 
 * **origin**: um dict com a latitude e longitude da região do hub;
@@ -40,14 +41,14 @@ Onde:
 * **deliveries**: uma list de dict com as entregas que devem ser realizadas.                         
 
 
-Sendo que:
+> Sendo que:
 * **id**: uma string com o id único da entrega; 
 * **point**: um dict com a latitude e longitude da entrega; 
 * **size**: um int com o tamanho ou a carga que a entrega ocupa no veículo.                          
 
 
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+> Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Python
 - Google Colab
 - Pandas
@@ -55,3 +56,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Os
 - Visualização de gráficos
 - Insights
+'''
