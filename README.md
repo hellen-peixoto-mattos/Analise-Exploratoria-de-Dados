@@ -4,7 +4,7 @@ Com as informações extraídas do portfólio Loggi Benchmark for Urban Deliveri
 
 A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeiro. Cada ponto azul representa um ponto de entrega que deve ser alocado a um veículo para que a entrega seja realizada. Veículos pertencem a hubs de distribuição regionais espalhados pela cidade:
 
-![Mapa](mapa.imagem.png)      
+![Mapa](C:\Users\Hellen\Downloads\mapa.imagem.png)      
 
 > Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Python
