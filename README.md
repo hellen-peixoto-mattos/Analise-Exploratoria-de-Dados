@@ -5,7 +5,7 @@ Com as informações extraídas do portfólio Loggi Benchmark for Urban Deliveri
 > Acesse o link do repositório no GitHub: https://github.com/loggi/loggibud 
 
 
-<br>A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeiro. Cada ponto azul representa um ponto de entrega que deve ser alocado a um veículo para que a entrega seja realizada. Veículos pertencem a hubs de distribuição regionais espalhados pela cidade
+<br>A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeiro. Cada ponto azul representa um ponto de entrega que deve ser alocado a um veículo para que a entrega seja realizada:
 
 <div align="center">
 <img src="https://github.com/hellen-peixoto-mattos/Analise-Exploratoria-de-Dados/assets/154277472/57186d9f-48c6-4eba-97e8-38b03ce8d535" width="800px" />
