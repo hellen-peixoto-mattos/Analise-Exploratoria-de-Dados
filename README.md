@@ -47,8 +47,6 @@ A figura a seguir ilustra a dimensão do problema para a cidade do Rio de Janeir
           "point": {"lng": -47.75887552060412, "lat": -15.651440380492554},
           "size": 10
       },
-      ...
     ]
   }
 ]              
-'''
